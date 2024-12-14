@@ -1,0 +1,1 @@
+# get pratice on @getter and @setter
